@@ -1,0 +1,71 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.bg-custom{
+   background-image: linear-gradient(to bottom, black, red, white);
+    margin: 0px 200px 10px 180px;
+    /* border: 5px 10px 150px px; */
+    
+    padding: 20px;
+    font-size: 20px;
+    
+}
+.nav-link{
+   border-right:1px solid #333333;
+   color:#fff;
+   padding: 20px 15px;
+   text-transform: uppercase;
+}
+.nav-item{
+    border-radius: 15px;
+    border-color: rgb(16, 128, 226);
+}
+
+.logo-nav{
+    height: 200px;
+    width: 200px;
+}
+.header-nav{
+    
+}
+.section-internacional{
+
+  
+}
+.card-columns {
+    margin: 0px 200px 10px 180px;
+  }
+  h2{
+      background-color: black;
+      color:white;
+  }
+  .card-img-top{
+    
+    
+      height: 310px;
+      width: 495px;
+     
+  }
+  .card-dody{
+      margin: 5000px;
+      background-color: black;
+  }
+  .btn-outline-success{
+      background-color:black;
+      color: white;
+  }
+  .logo-footer{
+      width: 100px;
+      height: 100px;
+  }
+  .seleccion{
+      text-size-adjust: 20px;
+  }
+/*# sourceMappingURL=style.css.map */
